@@ -6,10 +6,8 @@ To run the application, follow these steps:
 
 2. **Navigate to the Project Directory**
 
-3. **Build the Project:**
-*./gradlew build*
+3. **Build the project using Gradle**
 
-4. **Run the Application:**
-*./gradlew run*
+4. **Run the Main class**
 
-Alternatively, you can run the application directly using the java command after building it.
+
